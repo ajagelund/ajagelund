@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajagelund
 - 👀 I’m interested in programming tech and training programs
-- 🌱 I’m currently learning more about React in a new project
+<!-- - 🌱 I’m currently learning more about React in a new project -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
